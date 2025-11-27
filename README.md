@@ -1,30 +1,52 @@
+# 🇮🇳 MorBol: The Indian Languages Learning App
+
+_Note:_ This is a purely **Software Engineering** based Academic project.
+
 ## Introduction
 
-As per the Indian constitution, there are 22 official languages of India including Hindi,
-Tamil, Telugu, Kannada, Punjabi, Bhojpuri, Bodo, Malayalam, Sanskrit, etc. According
-to the 2011 census, Hindi is the mother tongue of around 40% Indians. Thus, most
-Indians have a mother tongue other than Hindi.
-If you are trying to learn to speak a language at your own pace, then you can use apps
-like Duolingo, Mango languages, Busuu, etc to do so. There are options easily available
-to learn Hindi, but it’s not the same for other Indian languages, especially not one like
-Duolingo.
-Thus, anyone wanting to learn an Indian language in an easy and fun manner would like
-to have access to an app like “MorBol”.
-MorBol, that stands for ‘Mor’ (peacock, i.e., the national bird or ‘More’) and ‘Bol’
-(words), is a user-friendly Indian language learning app with the following features:
-1. Structured learning courses with questions for regular assessment through
-verbal, listening and reading practice.
-2. Sets up daily goals for the user to achieve, encouraging them to take small steps
-at a comfortable pace and keeps them interested. The user is also notified as a
-reminder for the same.
-3. Option of conversing with a chatbot and joining communities to help the user in
-improving their communication skills in that language, since conversation builds
-better understanding of any language.
-4. Gamified quiz to compete with other learners and practice.
-5. Feedback option to register a complaint, query or provide feedback about the
-usage of the app or course.
-6. App language options in Indian languages other than English for
-accommodating a larger diverse audience.
-In the wake of the disappearance of languages around the world, it is imminent for us
-to conserve and propagate the use of our native languages. This app aims to aid the same
-goal and make the process of learning an Indian language fun!
+India's rich linguistic tapestry is recognized by the Constitution, which lists **22 official languages**, including Hindi, Tamil, Telugu, Kannada, Punjabi, Malayalam, Sanskrit, and others. The 2011 census revealed that Hindi is the mother tongue for approximately 40% of Indians, meaning a significant majority has a native language other than Hindi.
+
+While resources like Duolingo, Mango languages, and Busuu offer extensive options for learning languages like Hindi, comparable, high-quality, and gamified options are scarce for many other Indian regional languages.
+
+**MorBol** aims to fill this gap. Anyone seeking a fun, engaging, and easy way to learn an Indian language will find their solution here.
+
+---
+
+## What is MorBol?
+
+The name **MorBol** is derived from:
+* **'Mor'**: Meaning 'peacock' (India's national bird) or 'More'.
+* **'Bol'**: Meaning 'words'.
+
+MorBol is a user-friendly Indian language learning application designed with the core mission of conserving and propagating the use of native languages worldwide, starting with India.
+
+## Key Features
+
+MorBol is packed with features to make language learning effective and enjoyable:
+
+* **1. Structured Learning Courses:** Comprehensive courses with regular assessment questions covering **verbal, listening, and reading practice**.
+* **2. Daily Goals & Motivation:** Set achievable daily goals to encourage small, comfortable steps. Users receive notifications as reminders to stay on track.
+* **3. Conversational Practice:**
+    * Converse with a smart **chatbot** for instant practice.
+    * Join **community groups** to chat and exchange knowledge with other learners, which builds better communication skills.
+* **4. Gamified Quizzes:** Compete with other learners in fun quizzes to practice and stay motivated.
+* **5. Multi-Lingual App Interface:** The app offers interface language options in **Indian languages other than English** to accommodate a larger, diverse audience.
+* **6. Feedback Mechanism:** A dedicated option to register complaints, queries, or provide valuable feedback about the app usage or course content for continuous improvement.
+
+---
+
+## 🎯 Objectives
+
+The primary goals of the **MorBol** application are to ensure effective, engaging, and comprehensive language acquisition:
+
+| Objective Category | Description |
+| :--- | :--- |
+| **Learning Activity** | To effectively train users in speech comprehension via listening exercises and visual content, and to help them learn to read and understand text. |
+| **Language Practice** | To allow users to create or choose a community where they can chat and exchange their knowledge. Users can also converse with a chatbot for real-time practice. |
+| **Quizzes & Engagement** | To make learning interesting and non-boring by adding gamified quizzes to engage users and motivate them through accomplishments and recognition. |
+| **Progress-Tracking** | To provide a clear overview of the user's level of proficiency and find all information regarding their progress through the course. |
+| **Vocal Practice** | To improve user's pronunciation through dedicated vocal practice questions and exercises. |
+| **Daily Goals** | To keep the user consistent and on track with the learning course and notify them accordingly with timely reminders. |
+| **Feedback** | To allow the users to register a complaint, query, or give their inputs for future improvements and course corrections. |
+
+---
